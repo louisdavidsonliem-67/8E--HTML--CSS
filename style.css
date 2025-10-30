@@ -1,0 +1,24 @@
+body{
+   background-image: url(https://basket.sportkit.id/photos/students/photo/1_7437.jpeg?v=11);
+    color: purple;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.box{
+    background-color: aqua;
+    padding: 30px;
+    padding-left: 50px;
+    margin: 120px;
+}
+
+.box p{
+    color: antiquewhite;
+}
+
+h1:hover{
+    color: brown;
+    background-color: blueviolet;
+}
